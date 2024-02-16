@@ -1,0 +1,23 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+h1 {
+    font-size: 20px;
+    color: #FF0000;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+ol {
+    margin-top: 18px;
+    margin-left: 91px;
+    color: #5F5F5F;
+}
+img {
+    margin-top: 18px;
+    margin-left: 79px;
+}
+p {
+    margin-top: 18px;
+    margin-left: 10px;
+    color: #5B5B5B;
+}
